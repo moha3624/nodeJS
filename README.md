@@ -6,3 +6,7 @@ Features
 Excludes Fridays : The script only considers working days from Monday to Thursday and Saturday to Sunday, skipping Fridays.
 Proportional Target Distribution: Distributes a user-specified annual target proportionally based on the number of working days
 Easy-to-use: The script provides an interactive command-line interface to input dates and the total annual target.
+
+#🆔 : C1211056
+#Name : Mohamed Adow Kadiye
+
